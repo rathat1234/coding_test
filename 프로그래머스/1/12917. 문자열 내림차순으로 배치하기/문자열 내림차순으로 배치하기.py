@@ -10,4 +10,5 @@ def solution(s):
     
     for i in range(len(arr)):
         s += arr[i]
+        
     return s
