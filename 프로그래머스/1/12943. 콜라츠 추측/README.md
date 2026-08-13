@@ -1,10 +1,10 @@
 # [level 1] 콜라츠 추측 - 12943 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12943) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=c) 
 
 ### 성능 요약
 
-메모리: 11.4 MB, 시간: 0.07 ms
+메모리: 5.01 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 18일 00:22:19
+2026년 08월 13일 21:10:16
 
 ### 문제 설명
 
