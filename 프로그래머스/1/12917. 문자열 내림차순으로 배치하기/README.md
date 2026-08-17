@@ -1,10 +1,10 @@
 # [level 1] 문자열 내림차순으로 배치하기 - 12917 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=c) 
 
 ### 성능 요약
 
-메모리: 11.7 MB, 시간: 5.35 ms
+메모리: 4.95 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 18일 12:57:27
+2026년 08월 17일 14:57:07
 
 ### 문제 설명
 
